@@ -1,4 +1,4 @@
-# Héroes APP
+# Youtube APP
 
 Proyecto en Angular version 9.0.7.
 App que permite visualizar y hacer suscripciones en youtube.
